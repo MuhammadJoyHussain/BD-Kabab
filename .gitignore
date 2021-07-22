@@ -12,6 +12,7 @@
 /build
 .firebase
 firebase.config.js
+images
 
 # misc
 .DS_Store
